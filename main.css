@@ -1,0 +1,46 @@
+*{
+    box-sizing: border-box;
+    margin:0;
+    padding:0;
+    
+}
+
+body{
+   background:#856404;  
+}
+
+.wrap{
+    background-color: #ffeeba;
+    width:50%;
+    margin:0 auto;
+    margin-top:50px;
+    text-align: center;
+} 
+
+h1{
+   text-transform: uppercase;
+   padding-top: 50px;
+   color:#856404; 
+}
+
+input{
+   width:350px;
+   margin-top:50px;
+   margin-bottom: 50px;
+   padding:4px;
+}
+
+
+#list li{
+   text-align: left;
+   padding-bottom: 25px;
+   font-size: large;
+}
+
+#list li i{
+    float: right;
+}
+
+.list-group-item {
+    padding: .70rem 1.25rem !important;
+}
